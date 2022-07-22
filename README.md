@@ -1,4 +1,4 @@
-# Replace snap version of Firefox on Ubuntu
+# Replace the stupid snap version of Firefox on Ubuntu
 ## Step by step guide to replace snap version of Firefox, that ships by default on Ubuntu.
 
 1)
