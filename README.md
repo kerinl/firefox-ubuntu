@@ -15,8 +15,8 @@
 
 5)
 ### Insert these lines (make sure to delete the #) in the file above:
-`Package: firefox*`
-`Pin: release o=LP-PPA-mozillateam`
+`Package: firefox*`<br />
+`Pin: release o=LP-PPA-mozillateam`<br />
 `Pin-Priority: 501`
 
 6)
