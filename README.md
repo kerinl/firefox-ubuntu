@@ -14,7 +14,7 @@
 `sudo nano /etc/apt/preferences.d/mozillateamppa`
 
 5)
-### Insert these lines (make sure to delete the #) in the file above:
+### Insert these lines in the file above:
 `Package: firefox*`<br />
 `Pin: release o=LP-PPA-mozillateam`<br />
 `Pin-Priority: 501`
